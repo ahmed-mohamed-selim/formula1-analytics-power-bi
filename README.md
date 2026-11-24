@@ -64,6 +64,12 @@ A six-page interactive report (Overview, Drivers, Constructors, Circuits, Race P
 
 ![Dashboard overview](docs/images/overview.png)
 
+| | |
+| --- | --- |
+| ![Drivers](docs/images/drivers.png) | ![Constructors](docs/images/constructors.png) |
+| ![Circuits](docs/images/circuits.png) | ![Race Performance](docs/images/performance.png) |
+| ![Reliability](docs/images/reliability.png) | |
+
 ## Selected findings
 
 ![Win probability by starting position](reports/figures/grid_win_probability.png)

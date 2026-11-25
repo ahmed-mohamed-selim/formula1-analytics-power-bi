@@ -83,7 +83,7 @@ The full list is in [`reports/insights.md`](reports/insights.md).
 ## Documentation
 
 - [Data model](docs/data_model.md): star schema, grain of every table, derived columns, data quality rules and coverage.
-- [Power BI guide](docs/power_bi_guide.md): relationships, model settings, 24 DAX measures and the dashboard layout.
+- [Power BI]: relationships, model settings, 24 DAX measures and the dashboard layout.
 
 ## Project structure
 

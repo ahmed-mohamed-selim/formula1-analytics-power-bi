@@ -60,7 +60,7 @@ Upload `f1-analytics.zip` and the data archive to `/content` first. Outputs are 
 
 ## Power BI dashboard
 
-A six-page interactive report (Overview, Drivers, Constructors, Circuits, Race Performance, Reliability) built on the star schema. See [`dashboard/`](dashboard/README.md) for the `.pbix`, theme and backgrounds.
+A six-page interactive report (Overview, Drivers, Constructors, Circuits, Race Performance, Reliability) built on the star schema.
 
 ![Dashboard overview](docs/images/overview.png)
 
